@@ -17,5 +17,7 @@ class TestClass{
             System.out.println("i = " + i);
         }
 
+	System.out.println("Branch 0");
+
     }
 }
