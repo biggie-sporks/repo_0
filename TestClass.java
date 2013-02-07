@@ -11,6 +11,11 @@ class TestClass{
 
         System.out.println("Hello!");
 	System.out.println("Hello Again!");
+	
+	for(int i = 0; i < 10; i++){
+
+            System.out.println("i = " + i);
+        }
 
     }
 }
